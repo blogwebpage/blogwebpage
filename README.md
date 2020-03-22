@@ -1,4 +1,3 @@
-<!DOCOTYPE html>
 <html>
 <body>
 <title>My Website</title>
